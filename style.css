@@ -6,9 +6,17 @@ body{
 .body_section{
     padding : 3% 5% 1%;
 }
-
+.mains{
+  margin-top: 220px;
+  justify-content: center;
+}
 p{
   font-size: 18px;
+}
+.P1-heading {
+  text-align: center;
+  justify-content: center;
+  margin-top: 20px;
 }
 
   a{
